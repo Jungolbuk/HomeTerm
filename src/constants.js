@@ -31,4 +31,5 @@ const THEMES = [
   "greyscale",
   "dracula",
   "nightowl",
+  "moonlight",
 ];
