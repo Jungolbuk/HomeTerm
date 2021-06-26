@@ -48,7 +48,7 @@ To add your own theme just:
 
 - add a new class for your `<body>` with the name you want your theme to be called
 - add all of the existing variables with your theme values. (Theme variable defaults can be found under the :root definition)
-- add the class name to the `THEMES` array in `src/cli.js` so the terminal knows about it
+- add the class name to the `THEMES` array in `src/constants.js` so the terminal knows about it
 
 You should now be able to switch to your theme using the terminal!
 
