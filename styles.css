@@ -13,7 +13,7 @@
   --listTitle: var(--fg);
   --link: var(--fg);
   --tree: var(--fg);
-  --scrollbar-width: none;
+  --scrollbar-width: none !important;
 
   --fontSize: 13px;
   --fontFamily: "Source Code Pro", monospace;
