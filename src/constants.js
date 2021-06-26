@@ -21,6 +21,7 @@ const ENGINES = {
   google: "https://google.com/search?q=",
   ddg: "https://duckduckgo.com/?q=",
   bing: "https://www.bing.com/search?q=",
+  spotify: "https://open.spotify.com/search/"
 };
 // Defined Themes
 const THEMES = [
